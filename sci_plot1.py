@@ -18,7 +18,7 @@ import scipy as sp
 #lines = file.readlines()
 # print len(lines)
 
-# test
+# test git flow new feature
 
 #pylab.rcParams['figure.figsize'] = (8.0, 4.0)
 
